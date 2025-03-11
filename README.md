@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlexDovere
 - 👀 I’m interested in Swift and every new technology
-- 🌱 I’m currently learning Swift and I'm studying engineering 
 - 💞️ I’m looking to collaborate on new exciting project 
 - 📫 How to reach me: 
 alexdovere97@gmail.com
